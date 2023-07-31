@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(230, 199, 219);
+}
+h1 {
+  color: rgb(137, 20, 167);
+  font-style: oblique;
+}
+ul {
+  background: rgb(192, 170, 193);
+  color: white;
+  font-style: oblique;
+}
+p {
+  text-decoration-line: overline;
+  text-decoration-style: wavy;
+}
+ol {
+  background: rgb(192, 170, 193);
+  color: white;
+  font-style: oblique;
+}
